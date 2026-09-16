@@ -22,3 +22,4 @@ python-dotenv
 langchain-tavily
 langchain-pinecone
 ipykernel
+langchain-hugingface
